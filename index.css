@@ -14,3 +14,14 @@ body{
 h2{
     padding-left: 40px;
 }
+#text-btn{
+    width: auto;
+    height: 50px;
+    border-radius: 30px;
+    border: hidden;
+}
+
+#part3 {
+    width: auto;
+    height: 100%;
+}
